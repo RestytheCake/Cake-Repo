@@ -1,7 +1,7 @@
 {
     "META": {
         "repoName": "Cake Repo",
-        "repoIcon": "https://github.com/RestytheCake/Cake-Repo/favicon.png"
+        "repoIcon": "https://github.com/AnimeNow-Team/AnimeNow/raw/1.0.0-beta.3/Misc/Media/applogo_readme.png"
     },
     "Games": [
         {
@@ -183,7 +183,8 @@
             "description": "Anime Now Download. Still in Beta",
             "bundleID": "com.errorerrorerror.anime-now",
             "category": "Alpha",
-            "changelog": "Dropped Support"
+            "changelog": "Dropped Support",
+            "enableBackup": true
         }
     ]
 }
